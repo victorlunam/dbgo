@@ -1,0 +1,16 @@
+{
+  "source": {
+    "server": "localhost",
+    "port": "1433",
+    "database": "master",
+    "user": "sa",
+    "password": "secret"
+  },
+  "target": {
+    "server": "localhost",
+    "port": "1433",
+    "database": "master",
+    "user": "sa",
+    "password": "secret"
+  }
+}
